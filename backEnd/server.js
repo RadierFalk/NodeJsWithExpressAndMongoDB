@@ -8,6 +8,7 @@ const rotas = {
   "/livros": "Entrei na pg de Livros",
   "/autores": "Listagem de Autores",
   "/editora": "editoras",
+  "/sobre": "Inf. sobre projeto ",
 };
 
 // constante que cria o servidor e passo os parametros que ele irá responder
